@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{509DD6D5-44CD-4615-9A4F-0C4D80ECF28D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWrk-DLL-Abstraction/Program.cs">
+    <Files>
+      <File FileName="ClassWrk-DLL-Abstraction/Program.cs" Line="31" Column="13" />
+      <File FileName="Domain/Models/Doctor.cs" Line="6" Column="1" />
+      <File FileName="Domain/Models/Employee.cs" Line="7" Column="1" />
+      <File FileName="Domain/Models/User.cs" Line="6" Column="1" />
+      <File FileName="Domain/Models/Test.cs" Line="4" Column="18" />
+      <File FileName="ClassWrk-DLL-Abstraction/Test.cs" Line="6" Column="9" />
+      <File FileName="Domain/Models/Book.cs" Line="6" Column="1" />
+      <File FileName="Domain/Models/BaseEntity.cs" Line="4" Column="18" />
+      <File FileName="ClassWrk-DLL-Abstraction/Animal.cs" Line="9" Column="32" />
+      <File FileName="ClassWrk-DLL-Abstraction/Cat.cs" Line="8" Column="41" />
+      <File FileName="ClassWrk-DLL-Abstraction/Dog.cs" Line="8" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWrk-DLL-Abstraction" expanded="True">
+            <Node name="ClassWrk-DLL-Abstraction" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClassWrk-DLL-Abstraction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
